@@ -1,7 +1,7 @@
 {
-    "name": "V2run",
-    "description": "Deploy V2run on Heroku.",
-    "keywords": ["V2run"],
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://google.com",
-    "repository": "https://github.com/zjq777007/v2run",
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/bclswl0827/v2ray-heroku",
     "stack": "container"
 }
